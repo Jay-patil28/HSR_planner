@@ -1,2 +1,7 @@
 # HSR_planner
-honkai star planner with vba code
+## Download
+(Work in progress)
+## How to use
+(Work in progress)
+## idk
+idk
